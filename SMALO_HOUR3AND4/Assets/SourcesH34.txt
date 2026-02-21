@@ -6,9 +6,9 @@
                                                                                                                                                                   
 
 
-Texture 1 source url:
+Texture 1 source url:Assets/materials/stone.mat
 
-Texture 2 source url:
+Texture 2 source url:Assets/materials/wood.mat
 
-3D model source url:
+3D model source url:Assets/models/barrel.obj
 
