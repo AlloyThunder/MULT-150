@@ -1,0 +1,35 @@
+# Blender 4.5.1 LTS MTL File: 'Tools and weapons blender assets.blend'
+# www.blender.org
+
+newmtl ArrowFletchings1Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.373615 0.368591 0.383775
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/sammy/3D Models/Roblox import/Export From Roblox/Items and resources/Tools and Weapons File/Wood/ArrowFletchings1_nmap.png
+
+newmtl ArrowShaft1Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.141980 0.047776 0.016988
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/sammy/3D Models/Roblox import/Export From Roblox/Items and resources/Tools and Weapons File/Wood/ArrowShaft1_nmap.png
+
+newmtl ArrowTip1Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.659224 0.523443 0.311181
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/sammy/3D Models/Roblox import/Export From Roblox/Items and resources/Tools and Weapons File/Wood/ArrowTip1_nmap.png

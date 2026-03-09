@@ -1,0 +1,35 @@
+# Blender 4.5.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl NoiBarrelFrame1Mtl.001
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Kd 0.373615 0.368591 0.383775
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/sammy/3D Models/Roblox import/Export From Roblox/Props/NoiBarrelFrame1_nmap.png
+
+newmtl NoiBarrelLid1Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.409826 0.089194 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/sammy/3D Models/Roblox import/Export From Roblox/Props/NoiBarrelLid1_nmap.png
+
+newmtl NoiBarrelPlanks1Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.409826 0.089194 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/sammy/3D Models/Roblox import/Export From Roblox/Props/NoiBarrelLid1_nmap.png

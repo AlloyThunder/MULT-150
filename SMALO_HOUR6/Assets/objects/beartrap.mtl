@@ -1,0 +1,13 @@
+# Blender 4.5.1 LTS MTL File: 'Tools and weapons blender assets.blend'
+# www.blender.org
+
+newmtl Beartrap1Mtl
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Kd 0.373615 0.368591 0.383775
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/sammy/3D Models/Roblox import/Export From Roblox/Items and resources/Tools and Weapons File/Items/Beartrap1_nmap.png
